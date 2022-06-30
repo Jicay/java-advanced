@@ -1,0 +1,7 @@
+exercise:
+  name: StreamReduce
+  quest: 1
+  index: 8
+  files-from-student:
+    - StreamReduce.java
+  test-folder: StreamReduceTest

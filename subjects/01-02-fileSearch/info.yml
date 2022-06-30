@@ -1,0 +1,7 @@
+exercise:
+  name: FileSearch
+  quest: 1
+  index: 2
+  files-from-student:
+    - FileSearch.java
+  test-folder: FileSearchTest

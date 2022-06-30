@@ -1,0 +1,7 @@
+exercise:
+  name: FileManager
+  quest: 1
+  index: 1
+  files-from-student:
+    - FileManager.java
+  test-folder: FileManagerTest

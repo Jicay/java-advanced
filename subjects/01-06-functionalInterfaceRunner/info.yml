@@ -1,0 +1,8 @@
+exercise:
+  name: FunctionalInterfaceRunner
+  quest: 1
+  index: 6
+  files-from-student:
+    - FunctionalInterfaceRunner.java
+    - Operation.java
+  test-folder: FunctionalInterfaceRunnerTest

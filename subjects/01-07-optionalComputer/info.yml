@@ -1,0 +1,7 @@
+exercise:
+  name: OptionalComputer
+  quest: 1
+  index: 7
+  files-from-student:
+    - OptionalComputer.java
+  test-folder: OptionalComputerTest

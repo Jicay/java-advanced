@@ -1,0 +1,7 @@
+exercise:
+  name: RegexReplace
+  quest: 1
+  index: 4
+  files-from-student:
+    - RegexReplace.java
+  test-folder: RegexReplaceTest

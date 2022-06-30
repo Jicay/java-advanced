@@ -1,0 +1,7 @@
+exercise:
+  name: RegexMatch
+  quest: 1
+  index: 3
+  files-from-student:
+    - RegexMatch.java
+  test-folder: RegexMatchTest

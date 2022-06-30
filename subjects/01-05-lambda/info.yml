@@ -1,0 +1,7 @@
+exercise:
+  name: Lambda
+  quest: 1
+  index: 5
+  files-from-student:
+    - Lambda.java
+  test-folder: LambdaTest
