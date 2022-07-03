@@ -1,0 +1,7 @@
+exercise:
+  name: StreamCollect
+  quest: 1
+  index: 10
+  files-from-student:
+    - StreamCollect.java
+  test-folder: StreamCollectTest

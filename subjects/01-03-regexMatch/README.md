@@ -1,6 +1,6 @@
 # Instructions
 
-Create a file `RegexReplace.java`.
+Create a file `RegexMatch.java`.
 
 Write a function `containsOnlyAlpha` that returns `true` if the string as parameter contains only alpha characters.  
 Write a function `startWithLetterAndEndWithNumber` that returns `true` if the string as parameter starts with one letter and ends with one number.  
@@ -8,7 +8,7 @@ Write a function `containsAtLeast3SuccessiveA` that returns `true` if the string
 
 # Expected Functions
 ```java
-public class RegexReplace {
+public class RegexMatch {
     public static boolean containsOnlyAlpha(String s) {
         // your code here
     }

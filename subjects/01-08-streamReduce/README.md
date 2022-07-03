@@ -8,7 +8,7 @@ Create e function `divideAndAddElements` which sum the result of the division be
 
 # Expected Functions
 ```java
-public class RegexReplace {
+public class StreamReduce {
     public static Integer sumAll(Stream<Integer> s) {
         // your code here
     }

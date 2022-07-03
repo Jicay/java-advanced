@@ -10,7 +10,7 @@ Create e function `createFactorialAndSubstract` which returns a function which c
 
 # Expected Functions
 ```java
-public class RegexReplace {
+public class Operation {
     public static Operation createAddition() {
         // your code here
     }

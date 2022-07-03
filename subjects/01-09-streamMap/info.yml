@@ -1,0 +1,7 @@
+exercise:
+  name: StreamMap
+  quest: 1
+  index: 9
+  files-from-student:
+    - StreamMap.java
+  test-folder: StreamMapTest

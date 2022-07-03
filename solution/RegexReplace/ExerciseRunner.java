@@ -1,7 +1,5 @@
-import java.io.IOException;
-
 public class ExerciseRunner {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         System.out.println(RegexReplace.removeUnits("32cm et 50€"));
         System.out.println(RegexReplace.removeUnits("32 cm et 50 €"));
         System.out.println(RegexReplace.removeUnits("32cms et 50€!"));

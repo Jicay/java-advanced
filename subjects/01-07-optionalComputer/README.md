@@ -9,7 +9,7 @@ Create e function `addIntegerIfGreaterThan5` which returns, wrapped inside an op
 
 # Expected Functions
 ```java
-public class RegexReplace {
+public class OptionalComputer {
     public static Integer retrieveOrGetDefault(Optional<Integer> value) {
         // your code here
     }

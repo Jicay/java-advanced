@@ -1,6 +1,6 @@
 # Instructions
 
-Create a file `FunctionalInterface.java`.
+Create a file `Lambda.java`.
 
 We will write and execute some anonymous functions.
 Create a function `execute` which take an anonymous function as parameter and its two parameters. It returns the execution of the function using the two parameters.  
@@ -11,7 +11,7 @@ Create e function `buildFibonacciLambda` which return an anonymous which take an
 
 # Expected Functions
 ```java
-public class RegexReplace {
+public class Lambda {
     public static String execute(BiFunction<Integer, Integer, String> f, int i, int i1) {
         // your code here
     }
