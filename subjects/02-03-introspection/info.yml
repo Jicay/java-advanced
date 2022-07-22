@@ -1,0 +1,7 @@
+exercise:
+  name: Introspection
+  quest: 2
+  index: 3
+  files-from-student:
+    - Introspection.java
+  test-folder: IntrospectionTest

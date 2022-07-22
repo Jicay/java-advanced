@@ -1,0 +1,7 @@
+exercise:
+  name: GenericMethod
+  quest: 2
+  index: 1
+  files-from-student:
+    - GenericMethod.java
+  test-folder: GenericMethodTest

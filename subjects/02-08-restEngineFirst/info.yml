@@ -1,0 +1,9 @@
+exercise:
+  name: RestEngineFirst
+  quest: 2
+  index: 8
+  files-from-student:
+    - RestEngine.java
+    - Rest.java
+    - Get.java
+  test-folder: RestEngineFirstTest

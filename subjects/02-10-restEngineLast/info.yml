@@ -1,0 +1,11 @@
+exercise:
+  name: RestEngineLast
+  quest: 2
+  index: 10
+  files-from-student:
+    - RestEngine.java
+    - Rest.java
+    - Get.java
+    - QueryParam.java
+    - Post.java
+  test-folder: RestEngineLastTest
