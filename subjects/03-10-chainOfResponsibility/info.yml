@@ -1,0 +1,12 @@
+exercise:
+  name: ChainOfResponsibility
+  quest: 3
+  index: 10
+  files-from-student:
+    - ChocolateStep.java
+    - EggStep.java
+    - FlourStep.java
+    - Ingredient.java
+    - Recipe.java
+    - RecipeStep.java
+  test-folder: ChainOfResponsibilityTest

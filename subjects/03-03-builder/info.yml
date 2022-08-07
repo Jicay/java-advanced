@@ -1,0 +1,12 @@
+exercise:
+  name: Builder
+  quest: 3
+  index: 3
+  files-from-student:
+    - Apartment.java
+    - ApartmentBuilder.java
+    - House.java
+    - HouseBuilder.java
+    - Housing.java
+    - HousingBuilder.java
+  test-folder: BuilderTest

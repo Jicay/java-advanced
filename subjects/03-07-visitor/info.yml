@@ -1,0 +1,13 @@
+exercise:
+  name: Visitor
+  quest: 3
+  index: 7
+  files-from-student:
+    - Book.java
+    - Item.java
+    - ShoppingCart.java
+    - ShoppingCartItem.java
+    - ShoppingCartVisitor.java
+    - ShoppingCartVisitorImpl.java
+    - Vegetable.java
+  test-folder: VisitorTest

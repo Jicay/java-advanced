@@ -1,0 +1,12 @@
+exercise:
+  name: Factory
+  quest: 3
+  index: 2
+  files-from-student:
+    - Car.java
+    - CarDriver.java
+    - Driver.java
+    - Plane.java
+    - PlaneDriver.java
+    - Transport.java
+  test-folder: FactoryTest

@@ -1,0 +1,11 @@
+exercise:
+  name: Observer
+  quest: 3
+  index: 9
+  files-from-student:
+    - BinaryBaseObserver.java
+    - DecimalBaseObserver.java
+    - HexaBaseObserver.java
+    - NumericBaseObserver.java
+    - ValuePublisher.java
+  test-folder: ObserverTest

@@ -1,0 +1,11 @@
+exercise:
+  name: Decorator
+  quest: 3
+  index: 4
+  files-from-student:
+    - BaseRaclette.java
+    - Raclette.java
+    - RacletteDecorator.java
+    - WithColdMeats.java
+    - WithPicles.java
+  test-folder: DecoratorTest

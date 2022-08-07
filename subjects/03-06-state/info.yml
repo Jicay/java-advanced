@@ -1,0 +1,11 @@
+exercise:
+  name: State
+  quest: 3
+  index: 6
+  files-from-student:
+    - Character.java
+    - DeadState.java
+    - NormalState.java
+    - PoisonState.java
+    - State.java
+  test-folder: StateTest

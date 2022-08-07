@@ -1,0 +1,7 @@
+exercise:
+  name: Singleton
+  quest: 3
+  index: 1
+  files-from-student:
+    - Excalibur.java
+  test-folder: SingletonTest

@@ -1,0 +1,11 @@
+exercise:
+  name: Bridge
+  quest: 3
+  index: 5
+  files-from-student:
+    - CompleteRemote.java
+    - Device.java
+    - Radio.java
+    - Remote.java
+    - TV.java
+  test-folder: BridgeTest

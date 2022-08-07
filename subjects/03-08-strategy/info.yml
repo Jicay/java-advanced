@@ -1,0 +1,11 @@
+exercise:
+  name: Strategy
+  quest: 3
+  index: 8
+  files-from-student:
+    - AddStrategy.java
+    - ConcatStrategy.java
+    - Context.java
+    - MaxStrategy.java
+    - OperationStrategy.java
+  test-folder: StrategyTest
