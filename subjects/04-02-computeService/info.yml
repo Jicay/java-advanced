@@ -1,0 +1,7 @@
+exercise:
+  name: ArchiDao
+  quest: 4
+  index: 1
+  files-from-student:
+    - NumberDao.java
+  test-folder: ArchiDaoTest

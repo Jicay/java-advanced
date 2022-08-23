@@ -1,0 +1,2 @@
+param=It's a string
+otherParam=452

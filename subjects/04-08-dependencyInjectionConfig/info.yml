@@ -1,0 +1,9 @@
+exercise:
+  name: DependencyInjectionConfig
+  quest: 4
+  index: 7
+  files-from-student:
+    - Component.java
+    - Inject.java
+    - DependencyEngine.java
+  test-folder: DependencyInjectionConfigTest

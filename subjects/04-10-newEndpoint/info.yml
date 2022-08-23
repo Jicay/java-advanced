@@ -1,0 +1,21 @@
+exercise:
+  name: ArchiAllFrameworks
+  quest: 4
+  index: 9
+  files-from-student:
+    - NumberDao.java
+    - NumberDaoAPI.java
+    - ComputeService.java
+    - ComputeServiceAPI.java
+    - ComputeController.java
+    - IntOperation.java
+    - OperationDTO.java
+    - Get.java
+    - Post.java
+    - QueryParam.java
+    - Rest.java
+    - RestEngine.java
+    - Component.java
+    - Inject.java
+    - DependencyEngine.java
+  test-folder: ArchiAllFrameworksTest

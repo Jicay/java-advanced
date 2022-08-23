@@ -1,0 +1,9 @@
+exercise:
+  name: ArchiService
+  quest: 4
+  index: 2
+  files-from-student:
+    - NumberDao.java
+    - ComputeService.java
+    - IntOperation.java
+  test-folder: ArchiServiceTest

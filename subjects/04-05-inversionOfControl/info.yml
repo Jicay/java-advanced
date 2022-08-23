@@ -1,0 +1,16 @@
+exercise:
+  name: ArchiNewOperation
+  quest: 4
+  index: 4
+  files-from-student:
+    - NumberDao.java
+    - ComputeService.java
+    - ComputeController.java
+    - IntOperation.java
+    - OperationDTO.java
+    - Get.java
+    - Post.java
+    - QueryParam.java
+    - Rest.java
+    - RestEngine.java
+  test-folder: ArchiNewOperationTest
